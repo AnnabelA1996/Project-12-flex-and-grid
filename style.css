@@ -26,7 +26,8 @@ div {
     width: 100px;
     height: 100px;
     /* justify-self: center;
-    align-self: center; */
+    align-self: center;
+    place-self: flex-end center; */
 }
 
 section {
